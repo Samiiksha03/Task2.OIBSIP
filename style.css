@@ -4,7 +4,21 @@ header {
     color: #fff;
     padding: 15px;
   }
+  
   h1 {
     font-size: 320%; 
  }
- 
+ .background-image {
+    background-image: url("https://i.pinimg.com/564x/83/f2/f8/83f2f85a484ce1bdba4d39ca211a0dc8.jpg");
+  }
+  .about-me{
+    margin-top: 40px;
+    text-align: left;
+    padding: 10px;
+  }
+  .content-box {
+    margin-left: 60%;
+    margin-right: 10%;
+    max-width: 600px;
+    background-color: aquamarine;
+  }
